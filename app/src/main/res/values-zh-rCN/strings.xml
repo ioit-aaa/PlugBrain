@@ -27,5 +27,5 @@
     <string name="settings_title">设置</string>
     <string name="usage_free_duration_message">很棒！您已经远离干扰应用超过 %1$s 分钟。请继续保持！</string>
     <string name="apps_usage_duration_message">在过去的 %2$s 内，您使用干扰应用已超过 %1$s 分钟。</string>
-    <string name="blocking_message">时间到！连接您的大脑以解锁应用！</string>
+    <string name="blocking_message">时间到，动动脑筋，解决数学题以解锁应用！</string>
 </resources>
